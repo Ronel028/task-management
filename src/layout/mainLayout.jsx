@@ -4,7 +4,9 @@ const MainLayout = ({ children }) => {
   return (
     <main>
       <Navigation />
-      <section style={{ paddingTop: "61px" }}>{children}</section>
+      <section style={{ padding: "71px 0", backgroundColor: "#F5F5F5" }}>
+        {children}
+      </section>
     </main>
   );
 };
