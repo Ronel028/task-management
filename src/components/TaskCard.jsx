@@ -17,8 +17,12 @@ const TaskCard = () => {
           <p>High</p>
         </div>
         <div>
-          <p>Proirity Level: High</p>
+          <p>Proirity Level:</p>
           <p>High</p>
+        </div>
+        <div>
+          <p>Task Status:</p>
+          <p>Ongoing</p>
         </div>
       </div>
     </div>
